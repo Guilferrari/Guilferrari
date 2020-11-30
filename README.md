@@ -6,11 +6,13 @@
 
 ## I’m currently learning
 
-- Java                      - JUnit
-- Spring Framework          - MySQL
-- Spring Boot               - Design Patterns
-- Spring Security           - JavaScript
-- Hibernate					- React
-- Maven						- AWS
-
+- Java                      
+- Spring Framework          
+- Spring Boot               
+- Spring Security           
+- Hibernate					
+- Maven						
+- JUnit
+- MySQL
+- Design Patterns
 
