@@ -6,7 +6,11 @@
 
 ## I’m currently learning
 
-- Java
-- Design Patterns
-- JavaScript
-- React
+- Java                      - JUnit
+- Spring Framework          - MySQL
+- Spring Boot               - Design Patterns
+- Spring Security           - JavaScript
+- Hibernate					- React
+- Maven						- AWS
+
+
