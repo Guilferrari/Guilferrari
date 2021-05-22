@@ -6,13 +6,13 @@
 
 ## I’m currently learning
 
-- Java                      
-- Spring Framework          
-- Spring Boot               
-- Spring Security           
+- AWS                      
+- Azure          
+- Terraform               
+- Ansible          
 - Hibernate					
-- Maven						
-- JUnit
-- MySQL
-- Design Patterns
+- Kubernetes						
+- Security
+- Docker
+- DevOps
 
