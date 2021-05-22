@@ -9,8 +9,7 @@
 - AWS                      
 - Azure          
 - Terraform               
-- Ansible          
-- Hibernate					
+- Ansible          		
 - Kubernetes						
 - Security
 - Docker
